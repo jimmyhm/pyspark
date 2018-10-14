@@ -1,5 +1,8 @@
 # Instalación de Pyspark en Mac Os y Windows 
 
+### En windows
+Descargamos Apache Spark en [Spark](http://spark.apache.org/downloads.html), seleccionamos la versión y descargamos el archivo tgz. Descomprimimos. 
+
 Abrimos simbolo de sistema y pegamos las siguientes instrucciones
 ```
 setx SPARK_HOME C:\spark-2.3.2
@@ -9,7 +12,6 @@ setx HADOOP_HOME C:\spark-2.3.2
 setx PYSPARK_DRIVER_PYTHON ipython
 
 setx PYSPARK_DRIVER_PYTHON_OPTS notebook
-
 ```
 Les debera aparecer la salida.
 correcto se guardo el valor especificado.
