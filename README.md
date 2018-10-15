@@ -29,12 +29,13 @@ export PYSPARK_DRIVER_PYTHON="jupyter"
 export PYSPARK_DRIVER_PYTHON_OPTS="notebook" 
 ```
 
-Para python 3 agregar
+Agregar
 
 ```
 alias snotebook='$SPARK_HOME/bin/pyspark --master local[2]'
 
 ```
+Escribimos pyspark en la terminal y se deberia de abri jupyter notebook.
 
 
 ### En windows
