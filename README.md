@@ -35,7 +35,7 @@ Agregar
 alias snotebook='$SPARK_HOME/bin/pyspark --master local[2]'
 
 ```
-Escribimos pyspark en la terminal y se deberia de abri jupyter notebook.
+Escribimos snotebook en la terminal y se deberia de abri jupyter notebook.
 
 
 ### En windows
