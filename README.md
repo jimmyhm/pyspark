@@ -1,7 +1,7 @@
 # Instalación de Pyspark en Mac Os y Windows 
 
 ### En Mac Os
-Asegurese de tener JDK(Java Developer Kit) y el XCODE instalado.
+Asegurese de tener JDK(Java Development Kit) y el XCODE instalado.
 
 Descargamos Apache Spark en [Spark](http://spark.apache.org/downloads.html). Nos situamos en la carpeta de descarga y descomprimimos el tgz.
  ```
